@@ -4,7 +4,8 @@ body    {
 }
 
 h1  {
-    color: red;
+    color: #1dab22;
+    font-family: "press start 2p", "consolas","sans-serif"
 }
 p   {
     color: white;
